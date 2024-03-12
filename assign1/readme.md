@@ -1,6 +1,11 @@
 # Assignment 1
 ## Team Members
-//-- place table as shown in main readme.md file --//
+## Team Members
+|std_id|Name|
+|--------|-|
+|K21-3119|Muhammad Ayan|
+|K21-3093|Muhammad Ibrahim|
+
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
