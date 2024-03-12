@@ -1,6 +1,5 @@
 # Assignment 1
 ## Team Members
-## Team Members
 |std_id|Name|
 |--------|-|
 |K21-3119|Muhammad Ayan|
