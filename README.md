@@ -7,7 +7,7 @@
 |K21-3093|Muhammad Ibrahim|
 
 ## Assingment 1 ##
-Status: **In progress**
+Status: Done
 
 ## Assignment 2 ##
 Status: **Not assigned yet**
